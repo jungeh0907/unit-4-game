@@ -1,0 +1,25 @@
+/*heading*/
+#main-head h1 {
+	color: white;
+	text-align: left;
+}
+
+
+/*footer*/
+.footer {
+	text-align: center;
+}
+
+/*Random number div*/
+#div-random {
+	padding-bottom: 57px;
+}
+
+
+/*crystal images*/
+.crystal-img {
+	height: 150px;
+	width: 140px;	
+}
+
+
